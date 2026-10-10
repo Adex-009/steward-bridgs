@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+.env
+.env.*
+!.env.example
+.vercel/
+.open-next/
+wrangler.local.jsonc
+*.tsbuildinfo
